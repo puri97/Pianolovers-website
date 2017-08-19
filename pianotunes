@@ -1,0 +1,26 @@
+<html>
+<body>
+ <a href="piano.html">
+Home
+</a>
+&nbsp
+<a href="composer.html">
+My favourite composers
+</a>
+&nbsp
+<h3>
+<img src="heart.jpg">
+These are some of the pieces you must hear atleast once before you die.
+<img src="heart.jpg">
+</h3>
+<ol>
+<li> Fantasie Impromptu-Frederic Chopin </li>
+<li> Fur Elise-Ludwig Van Beethoven </li>
+<li>La Campanella-Franz Liszt</li>
+<li>Moonlight Sonata-Ludwig Van Beethoven</li>
+<li>Clair de Lune-Debussy</li>
+<li>Rondo Alla Turca-Mozart</li>
+</ol>
+<i>“What has keys but can’t listen to the beauty it unlocks? A piano.” – Jarod Kintz</i>
+</body>
+</html>
