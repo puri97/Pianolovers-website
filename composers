@@ -1,0 +1,81 @@
+<html>
+<head><title>Pianolovers</title></head>
+<body>
+ <a href="piano.html">
+Home
+</a>
+&nbsp
+<a href="pianotunes.html">
+Piano classics
+</a>
+&nbsp
+<h3>Many talented composers have given there contribution to piano music.
+Some of them are:
+</h3>
+<ul>
+<li><u>Frederic Francois Chopin
+</u></li>
+<img src="chopin.jpg"
+height="180px"
+width="150px">
+<p>
+Frederic Francois Chopin, born on 1st March,1810 as Fryderyk Franciszek Chopin, was a Polish composer and virtuoso pianist of the Romantic era who wrote primarily for the solo piano. 
+</p>
+<hr></hr>
+<li><u>Wolfgang Amadeus Mozart</u> 
+</li>
+<img src="mozart.jpg"
+height="190px"
+width="140px">
+<p>
+Wolfgang Amadeus Mozart, baptised as Johannes Chrysostomus Wolfgangus Theophilus Mozart,
+ was a prolific and influential composer of the Classical era. Born in Salzburg on 27 January 1756, he showed prodigious ability from his earliest childhood.
+</p>
+<hr></hr>
+<li><u>Ludwig van Beethoven</u></li>
+<img src="beethoven.jpeg"
+height="180px"
+width="150px">
+<p>
+Ludwig van Beethoven was a German composer and pianist born on December 1770.
+ A crucial figure in the transition between the Classical 
+ and Romantic eras in Western art music, he remains one of
+ the most famous and influential of all composers. 
+</p>
+<hr></hr>
+<li><u>Franz Liszt</u></li>
+<img src="Liszt.jpg"
+height="180px"
+width="150px">
+<p>
+Franz Liszt was a prolific 19th-century Hungarian composer, virtuoso pianist, 
+conductor, music teacher, arranger, organist, philanthropist, author, nationalist and a Franciscan tertiary.
+He was born on  22 October 1811 in Raiding, Austria
+</p>
+<hr></hr>
+<li><u>Johann Sebastian Bach </u></li>
+<img src="bach.jpg"
+height="180px"
+width="150px">
+<p>
+Johann Sebastian Bach (31 March [O.S. 21 March] 1685 – 28 July 1750) was a German composer and musician 
+of the Baroque period. He enriched established German styles through his mastery
+ of counterpoint, harmonic and motivic organisation, and his adaptation of rhythms, 
+ forms, and textures from abroad, particularly from Italy and France.
+</p>
+<hr></hr>
+<li><u>George Frideric Handel</u> <li>
+<img src="handel.jpg"
+height="180px"
+width="150px">
+<p>
+Georg Friedrich Handel, spelled in English George Frideric Handel was a German,
+later British, baroque composer who spent the bulk of his career in London,
+becoming well known for his operas, oratorios, anthems, and organ concertos. 
+He was born on 23 February 1685 in Halle, Germany.
+<p>
+<hr></hr>
+</ul>
+<i>“Life is like a piano. What you get out of it depends on how you play it.” -Tom Lehrer</i>
+</body>
+</html>
