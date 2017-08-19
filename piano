@@ -1,0 +1,23 @@
+<html>
+<head><title>ClassicalPianolovers</title>
+</head>
+<body>
+<img src="piano.jpeg"
+   width="500px"></img>
+   <hr></hr>
+   <a href="piano.html">
+Home
+</a>
+   <hr></hr>
+   Welcome to all my dear viewers!
+   <hr></hr>
+   <a href="composer.html">
+My favourite composers
+</a>
+<hr></hr>
+<a href="pianotunes.html">
+Piano classics
+</a><br>
+<i>“The piano keys are black and white but they sound like a million colors in your mind.” – Maria Cristina Mena<i>
+<body>
+</html>
